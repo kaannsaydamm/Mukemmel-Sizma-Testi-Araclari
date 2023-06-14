@@ -1,4 +1,4 @@
-# Mukemmel-Pentest-Toollari
+# Mukemmel Sizma Testi Araclari
 
 Bilgisayar korsanları, pentesterler ve güvenlik araştırmacıları için harika listelerden oluşan bir koleksiyon.
 
